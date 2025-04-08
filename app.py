@@ -255,4 +255,4 @@ folium_static(crime_map)
 
 
 # Footer
-st.caption("Built for BNSS 2023 Compliance and Real-time Crime Monitoring")
+st.caption("Built for BNSS 2023 Compliance and Real-time Crime Monitoring by CSP Udit ")
